@@ -1,0 +1,101 @@
+trip_id,trip_type,pickup_time,pickup_date,duration_mins,origin,destination,vehicle_required,zone,passengers,priority,special_requirements,status,assigned_driver_id
+TRP001,Campus shuttle,09:28,2025-03-20,90,Airport Terminal B,Waterfront Plaza,Van,North,2,Urgent,Security clearance,unassigned,
+TRP002,Event transport,06:45,2025-03-20,20,654 Maple Dr,Airport Terminal A,SUV,West,7,High,None,unassigned,
+TRP003,Delivery run,07:17,2025-03-20,90,Central Station,Downtown Office Complex,Van,Central,3,Normal,Wheelchair accessible,unassigned,
+TRP004,Corporate shuttle,11:15,2025-03-20,45,963 Poplar Rd,Sports Arena,SUV,North,6,High,None,assigned,DRV049
+TRP005,Delivery run,16:35,2025-03-20,90,258 Walnut Way,Convention Center,SUV,West,1,Normal,None,unassigned,
+TRP006,Airport transfer,13:01,2025-03-20,120,369 Spruce Ct,Convention Center,Sedan,West,1,Normal,Wheelchair accessible,unassigned,
+TRP007,Campus shuttle,13:51,2025-03-20,45,258 Walnut Way,Hotel Grand,Sedan,South,7,Normal,Temperature controlled,unassigned,
+TRP008,Emergency supply run,10:45,2025-03-20,45,Central Station,Central Station,Sedan,North,5,Normal,None,unassigned,
+TRP009,Emergency supply run,06:39,2025-03-20,20,963 Poplar Rd,Central Station,Truck,Central,2,Normal,None,unassigned,
+TRP010,Emergency supply run,10:20,2025-03-20,20,123 Main St,Industrial Park,Minibus,South,6,Normal,None,unassigned,
+TRP011,Medical transport,16:38,2025-03-20,45,741 Willow Pl,Industrial Park,Van,West,6,Normal,None,unassigned,
+TRP012,Airport transfer,15:27,2025-03-20,30,222 Hickory Dr,Government Building,SUV,Central,5,Normal,None,unassigned,
+TRP013,Airport transfer,11:11,2025-03-20,45,222 Hickory Dr,Residential Complex B,Minibus,East,8,Normal,Security clearance,unassigned,
+TRP014,Delivery run,14:43,2025-03-20,60,789 Pine Rd,Airport Terminal B,Minibus,Central,6,Low,None,unassigned,
+TRP015,Airport transfer,17:28,2025-03-20,45,147 Birch Blvd,Shopping Center,Sedan,North,4,Normal,None,unassigned,
+TRP016,Airport transfer,13:46,2025-03-20,60,111 Ash St,Waterfront Plaza,Truck,South,3,Urgent,None,unassigned,
+TRP017,Emergency supply run,07:49,2025-03-20,120,258 Walnut Way,Convention Center,Minibus,West,1,High,Wheelchair accessible,unassigned,
+TRP018,VIP transfer,13:47,2025-03-20,30,Airport Terminal B,Residential Complex A,Minibus,East,8,High,None,assigned,DRV033
+TRP019,Delivery run,15:21,2025-03-20,60,Airport Terminal A,Financial District,Van,South,5,High,Security clearance,unassigned,
+TRP020,Medical transport,10:41,2025-03-20,60,741 Willow Pl,Hotel Grand,Van,East,6,High,None,unassigned,
+TRP021,Emergency supply run,08:34,2025-03-20,30,654 Maple Dr,Sports Arena,Sedan,West,7,Normal,None,assigned,DRV008
+TRP022,Airport transfer,13:05,2025-03-20,20,222 Hickory Dr,Government Building,Minibus,North,7,Normal,None,unassigned,
+TRP023,Emergency supply run,11:05,2025-03-20,120,222 Hickory Dr,Residential Complex A,Minibus,Central,4,Normal,Wheelchair accessible,unassigned,
+TRP024,Corporate shuttle,13:26,2025-03-20,60,111 Ash St,Central Station,Truck,South,8,Normal,None,unassigned,
+TRP025,Corporate shuttle,12:43,2025-03-20,75,789 Pine Rd,Research Institute,SUV,West,3,Low,Temperature controlled,assigned,DRV023
+TRP026,VIP transfer,11:35,2025-03-20,30,852 Chestnut Ave,Central Station,Truck,East,7,Normal,None,unassigned,
+TRP027,Corporate shuttle,14:01,2025-03-20,20,963 Poplar Rd,Hotel Grand,Sedan,North,1,Normal,Wheelchair accessible,unassigned,
+TRP028,Airport transfer,16:36,2025-03-20,30,654 Maple Dr,Waterfront Plaza,Sedan,Central,4,Normal,None,unassigned,
+TRP029,Medical transport,12:17,2025-03-20,30,987 Cedar Ln,Airport Terminal B,Sedan,Central,1,Normal,None,assigned,DRV028
+TRP030,Airport transfer,12:46,2025-03-20,90,789 Pine Rd,Residential Complex B,SUV,North,5,Urgent,None,unassigned,
+TRP031,Corporate shuttle,15:39,2025-03-20,120,963 Poplar Rd,Residential Complex A,Truck,East,2,High,None,unassigned,
+TRP032,Emergency supply run,06:12,2025-03-20,120,Airport Terminal A,University Campus,Truck,East,8,Urgent,Wheelchair accessible,assigned,DRV008
+TRP033,Campus shuttle,09:00,2025-03-20,90,South Ferry,Residential Complex A,Truck,West,7,Urgent,None,unassigned,
+TRP034,Airport transfer,11:30,2025-03-20,120,789 Pine Rd,Airport Terminal A,Truck,South,8,High,None,assigned,DRV019
+TRP035,VIP transfer,11:44,2025-03-20,20,852 Chestnut Ave,Convention Center,Truck,South,6,Normal,Temperature controlled,unassigned,
+TRP036,Campus shuttle,16:10,2025-03-20,90,Central Station,City Hospital,Minibus,South,2,Normal,None,assigned,DRV044
+TRP037,Airport transfer,14:20,2025-03-20,75,Airport Terminal A,Waterfront Plaza,Truck,North,2,Normal,Wheelchair accessible,assigned,DRV044
+TRP038,Campus shuttle,17:48,2025-03-20,30,North Bus Depot,Medical Center,Truck,Central,6,Normal,None,unassigned,
+TRP039,VIP transfer,12:00,2025-03-20,90,369 Spruce Ct,Airport Terminal B,Van,South,2,Urgent,Wheelchair accessible,unassigned,
+TRP040,Delivery run,08:02,2025-03-20,90,147 Birch Blvd,Sports Arena,Truck,East,5,Low,None,unassigned,
+TRP041,Event transport,11:03,2025-03-20,30,987 Cedar Ln,Airport Terminal B,Sedan,Central,3,Normal,None,unassigned,
+TRP042,Delivery run,15:26,2025-03-20,45,Airport Terminal A,University Campus,Sedan,Central,5,Normal,Security clearance,assigned,DRV038
+TRP043,Corporate shuttle,11:48,2025-03-20,30,369 Spruce Ct,Waterfront Plaza,Sedan,North,7,Normal,None,unassigned,
+TRP044,Campus shuttle,08:35,2025-03-20,30,789 Pine Rd,Hotel Grand,Sedan,Central,7,High,None,unassigned,
+TRP045,VIP transfer,14:55,2025-03-20,60,333 Sycamore Ln,Airport Terminal B,Minibus,West,5,High,None,unassigned,
+TRP046,Medical transport,16:24,2025-03-20,90,147 Birch Blvd,Sports Arena,Van,North,3,Normal,Wheelchair accessible,unassigned,
+TRP047,Emergency supply run,08:40,2025-03-20,20,333 Sycamore Ln,Community Center,Truck,East,1,Normal,Temperature controlled,unassigned,
+TRP048,VIP transfer,17:59,2025-03-20,120,789 Pine Rd,Hotel Grand,Van,Central,4,Normal,None,unassigned,
+TRP049,Campus shuttle,17:03,2025-03-20,30,654 Maple Dr,Tech Park Campus,Sedan,South,5,High,None,unassigned,
+TRP050,VIP transfer,13:29,2025-03-20,20,741 Willow Pl,Government Building,Van,Central,8,Normal,None,unassigned,
+TRP051,Event transport,13:22,2025-03-20,90,South Ferry,Airport Terminal A,Sedan,North,4,Urgent,None,unassigned,
+TRP052,Campus shuttle,17:28,2025-03-20,120,North Bus Depot,Downtown Office Complex,SUV,West,8,Normal,Wheelchair accessible,assigned,DRV032
+TRP053,VIP transfer,16:50,2025-03-20,120,789 Pine Rd,Waterfront Plaza,Van,West,6,Normal,None,unassigned,
+TRP054,Emergency supply run,08:44,2025-03-20,45,Airport Terminal A,Airport Terminal B,Truck,Central,1,Normal,None,unassigned,
+TRP055,Medical transport,10:18,2025-03-20,45,111 Ash St,Industrial Park,Sedan,Central,8,Normal,None,unassigned,
+TRP056,VIP transfer,14:50,2025-03-20,45,333 Sycamore Ln,Downtown Office Complex,SUV,East,3,Normal,Security clearance,assigned,DRV034
+TRP057,Airport transfer,08:04,2025-03-20,20,987 Cedar Ln,Airport Terminal B,Minibus,North,7,Low,Wheelchair accessible,unassigned,
+TRP058,Delivery run,13:52,2025-03-20,20,Airport Terminal A,Airport Terminal B,Minibus,East,7,Normal,Security clearance,unassigned,
+TRP059,Delivery run,13:47,2025-03-20,75,111 Ash St,Sports Arena,Minibus,Central,3,Low,Temperature controlled,assigned,DRV043
+TRP060,Campus shuttle,11:48,2025-03-20,120,123 Main St,Airport Terminal B,Van,Central,8,Normal,Security clearance,assigned,DRV020
+TRP061,Emergency supply run,11:53,2025-03-20,45,333 Sycamore Ln,Central Station,SUV,South,7,Normal,None,assigned,DRV003
+TRP062,VIP transfer,06:44,2025-03-20,45,111 Ash St,Government Building,SUV,West,1,Normal,None,unassigned,
+TRP063,VIP transfer,07:42,2025-03-20,120,321 Elm St,Industrial Park,Truck,North,3,Normal,None,unassigned,
+TRP064,Campus shuttle,07:16,2025-03-20,60,852 Chestnut Ave,Community Center,Truck,North,6,Urgent,None,assigned,DRV015
+TRP065,VIP transfer,11:24,2025-03-20,90,Central Station,Downtown Office Complex,Minibus,North,4,Urgent,None,unassigned,
+TRP066,Medical transport,09:52,2025-03-20,90,222 Hickory Dr,University Campus,Sedan,West,3,Urgent,Temperature controlled,unassigned,
+TRP067,Corporate shuttle,06:47,2025-03-20,45,741 Willow Pl,Medical Center,Van,West,3,Normal,None,assigned,DRV026
+TRP068,Delivery run,15:39,2025-03-20,90,987 Cedar Ln,Convention Center,Sedan,Central,7,High,None,unassigned,
+TRP069,Delivery run,14:29,2025-03-20,75,258 Walnut Way,Financial District,Van,West,5,Urgent,None,assigned,DRV039
+TRP070,Delivery run,10:54,2025-03-20,90,789 Pine Rd,Financial District,Van,Central,5,Urgent,Security clearance,unassigned,
+TRP071,Campus shuttle,13:47,2025-03-20,120,147 Birch Blvd,Government Building,Truck,North,4,Normal,None,unassigned,
+TRP072,Campus shuttle,15:48,2025-03-20,45,123 Main St,Government Building,Van,North,1,High,None,assigned,DRV004
+TRP073,Airport transfer,10:53,2025-03-20,120,South Ferry,Medical Center,SUV,South,5,Urgent,None,unassigned,
+TRP074,Corporate shuttle,16:43,2025-03-20,20,741 Willow Pl,Financial District,Sedan,Central,6,Urgent,Wheelchair accessible,unassigned,
+TRP075,Emergency supply run,11:02,2025-03-20,45,987 Cedar Ln,Sports Arena,SUV,Central,6,High,None,unassigned,
+TRP076,VIP transfer,08:48,2025-03-20,45,741 Willow Pl,Central Station,Sedan,West,2,Normal,None,unassigned,
+TRP077,Emergency supply run,17:32,2025-03-20,90,Central Station,Medical Center,Sedan,West,1,Normal,None,unassigned,
+TRP078,Campus shuttle,13:45,2025-03-20,45,North Bus Depot,Government Building,Van,North,4,Normal,None,unassigned,
+TRP079,Medical transport,16:24,2025-03-20,30,333 Sycamore Ln,Airport Terminal B,Truck,North,3,Low,None,unassigned,
+TRP080,Medical transport,14:24,2025-03-20,20,258 Walnut Way,Residential Complex A,SUV,West,8,Normal,None,assigned,DRV001
+TRP081,Delivery run,16:01,2025-03-20,90,222 Hickory Dr,University Campus,Truck,Central,7,Normal,None,unassigned,
+TRP082,VIP transfer,09:42,2025-03-20,60,258 Walnut Way,Medical Center,Sedan,East,6,Low,Security clearance,unassigned,
+TRP083,VIP transfer,09:14,2025-03-20,20,789 Pine Rd,Sports Arena,Minibus,North,1,Normal,Wheelchair accessible,unassigned,
+TRP084,Medical transport,15:38,2025-03-20,30,Central Station,Sports Arena,Minibus,South,4,Normal,None,unassigned,
+TRP085,Campus shuttle,16:10,2025-03-20,20,654 Maple Dr,Shopping Center,Minibus,East,3,Low,None,unassigned,
+TRP086,Event transport,08:14,2025-03-20,20,258 Walnut Way,Residential Complex B,Van,North,3,Normal,None,unassigned,
+TRP087,Medical transport,13:11,2025-03-20,75,789 Pine Rd,Waterfront Plaza,Truck,East,2,Normal,None,unassigned,
+TRP088,Campus shuttle,16:29,2025-03-20,20,333 Sycamore Ln,City Hospital,Sedan,West,7,Normal,None,unassigned,
+TRP089,VIP transfer,14:22,2025-03-20,90,789 Pine Rd,Tech Park Campus,Van,Central,3,Low,Wheelchair accessible,unassigned,
+TRP090,Event transport,16:39,2025-03-20,90,111 Ash St,Community Center,Minibus,East,8,High,None,assigned,DRV014
+TRP091,Medical transport,07:41,2025-03-20,120,Central Station,Sports Arena,Truck,West,4,Normal,Temperature controlled,assigned,DRV020
+TRP092,Medical transport,12:48,2025-03-20,60,852 Chestnut Ave,Research Institute,Van,East,6,Normal,None,assigned,DRV014
+TRP093,Medical transport,07:08,2025-03-20,20,789 Pine Rd,Research Institute,Sedan,East,3,High,None,unassigned,
+TRP094,Emergency supply run,17:26,2025-03-20,20,963 Poplar Rd,Research Institute,Sedan,East,5,Normal,None,unassigned,
+TRP095,VIP transfer,08:38,2025-03-20,90,258 Walnut Way,University Campus,Van,Central,6,Low,None,unassigned,
+TRP096,Emergency supply run,15:47,2025-03-20,30,Central Station,Community Center,Minibus,Central,1,High,None,unassigned,
+TRP097,Campus shuttle,06:29,2025-03-20,30,741 Willow Pl,Central Station,Van,North,3,Normal,None,assigned,DRV050
+TRP098,Corporate shuttle,07:11,2025-03-20,30,789 Pine Rd,Industrial Park,SUV,West,7,Normal,Temperature controlled,unassigned,
+TRP099,Event transport,12:18,2025-03-20,45,North Bus Depot,Community Center,Sedan,North,3,Normal,None,unassigned,
+TRP100,Campus shuttle,17:30,2025-03-20,20,333 Sycamore Ln,Research Institute,Truck,Central,8,Normal,Temperature controlled,unassigned,

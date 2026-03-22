@@ -1,0 +1,51 @@
+driver_id,name,phone,vehicle_type,license_level,zone,shift,availability_start,availability_end,status,trips_completed_today
+DRV001,James Johnson,+15551419610,Van,Commercial,South,Morning,06:00,14:00,available,1
+DRV002,Maria Garcia,+15552458591,Minibus,CDL-B,North,Midday,10:00,18:00,available,1
+DRV003,David Williams,+15554903402,Minibus,Medical Transport Certified,North,Afternoon,14:00,22:00,busy,3
+DRV004,Sarah Smith,+15558038374,SUV,CDL-B,Central,Midday,10:00,18:00,available,0
+DRV005,Carlos Martinez,+15558090293,Van,CDL-A,South,Afternoon,14:00,22:00,available,5
+DRV006,Aisha Brown,+15552556017,Truck,Standard,East,Morning,06:00,14:00,available,4
+DRV007,Michael Davis,+15558707870,Minibus,Standard,West,Morning,06:00,14:00,available,8
+DRV008,Priya Wilson,+15557067228,Minibus,Commercial,North,Night,22:00,06:00,available,3
+DRV009,Robert Anderson,+15552338687,SUV,Standard,West,Night,22:00,06:00,available,7
+DRV010,Linda Taylor,+15553728882,Van,CDL-A,South,Night,22:00,06:00,off-shift,4
+DRV011,Kevin Thomas,+15553871230,Minibus,Commercial,South,Morning,06:00,14:00,available,6
+DRV012,Fatima Jackson,+15554684531,Van,Standard,South,Night,22:00,06:00,available,5
+DRV013,Brian White,+15555491946,Sedan,Commercial,Central,Business,08:00,16:00,off-shift,5
+DRV014,Nicole Harris,+15559375710,Truck,CDL-B,South,Afternoon,14:00,22:00,available,2
+DRV015,Omar Martin,+15555408072,Minibus,CDL-B,Central,Afternoon,14:00,22:00,available,5
+DRV016,Jessica Thompson,+15553320821,Minibus,CDL-B,North,Afternoon,14:00,22:00,available,1
+DRV017,Anthony Robinson,+15553684052,Truck,Medical Transport Certified,North,Afternoon,14:00,22:00,available,6
+DRV018,Yuki Clark,+15558852574,Minibus,CDL-A,Central,Midday,10:00,18:00,available,1
+DRV019,Daniel Lewis,+15555476583,Van,Standard,East,Midday,10:00,18:00,available,2
+DRV020,Grace Walker,+15551054447,Van,Medical Transport Certified,South,Business,08:00,16:00,busy,1
+DRV021,Marcus Hall,+15559517169,Minibus,Commercial,South,Night,22:00,06:00,available,2
+DRV022,Elena Allen,+15559897858,Sedan,Medical Transport Certified,East,Midday,10:00,18:00,available,0
+DRV023,Tyler Young,+15557089806,Van,Commercial,North,Morning,06:00,14:00,available,1
+DRV024,Zoe King,+15559153566,Sedan,Medical Transport Certified,South,Morning,06:00,14:00,available,7
+DRV025,Andre Wright,+15553770370,Van,Medical Transport Certified,Central,Midday,10:00,18:00,available,3
+DRV026,Nadia Scott,+15554374754,Van,CDL-B,East,Midday,10:00,18:00,available,8
+DRV027,Joshua Torres,+15553030113,SUV,Commercial,North,Business,08:00,16:00,available,0
+DRV028,Claire Nguyen,+15554860684,Minibus,Commercial,North,Midday,10:00,18:00,available,0
+DRV029,Malik Hill,+15552130789,Sedan,CDL-A,North,Afternoon,14:00,22:00,busy,3
+DRV030,Sofia Adams,+15559143903,SUV,Medical Transport Certified,South,Night,22:00,06:00,off-shift,7
+DRV031,Derek Baker,+15558935169,Truck,Commercial,North,Afternoon,14:00,22:00,available,6
+DRV032,Amara Rivera,+15558106470,Truck,CDL-B,North,Night,22:00,06:00,off-shift,1
+DRV033,Patrick Nelson,+15557754864,Van,Standard,South,Morning,06:00,14:00,available,3
+DRV034,Rachel Mitchell,+15558526486,SUV,CDL-B,South,Midday,10:00,18:00,available,7
+DRV035,Victor Carter,+15552264748,Truck,Medical Transport Certified,North,Afternoon,14:00,22:00,available,8
+DRV036,Hannah Perez,+15552564689,SUV,Commercial,West,Morning,06:00,14:00,available,7
+DRV037,Jerome Roberts,+15557728339,Sedan,Commercial,West,Afternoon,14:00,22:00,available,6
+DRV038,Mei Evans,+15558633773,Van,CDL-B,Central,Night,22:00,06:00,off-shift,7
+DRV039,Raymond Turner,+15554185957,Van,Commercial,North,Afternoon,14:00,22:00,busy,8
+DRV040,Leila Phillips,+15556261415,Sedan,Standard,Central,Morning,06:00,14:00,available,8
+DRV041,Curtis Campbell,+15553641282,Sedan,Medical Transport Certified,North,Midday,10:00,18:00,available,1
+DRV042,Isabelle Parker,+15552140194,SUV,CDL-B,North,Midday,10:00,18:00,busy,3
+DRV043,Darnell Edwards,+15551666754,Minibus,Standard,West,Midday,10:00,18:00,off-shift,8
+DRV044,Tanya Collins,+15555374922,SUV,CDL-A,South,Night,22:00,06:00,available,6
+DRV045,Felix Stewart,+15556033115,Truck,CDL-A,North,Afternoon,14:00,22:00,available,7
+DRV046,Camille Sanchez,+15552677407,Sedan,Medical Transport Certified,South,Midday,10:00,18:00,busy,4
+DRV047,Rodney Morris,+15556855396,Sedan,Commercial,East,Afternoon,14:00,22:00,available,2
+DRV048,Diana Rogers,+15556075395,Minibus,Medical Transport Certified,North,Business,08:00,16:00,off-shift,8
+DRV049,Terrence Reed,+15552737893,SUV,CDL-A,North,Night,22:00,06:00,available,8
+DRV050,Alicia Cook,+15555569244,Van,Medical Transport Certified,South,Afternoon,14:00,22:00,off-shift,5
